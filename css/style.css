@@ -13,7 +13,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 8px;
-    background-color: white;
+    background-color: #F0F8FF;
     color: #7FFF00;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -52,7 +52,7 @@ h3 {
 }
 
 h1 {
-    border-bottom: 4px double #802808;
+    border-bottom: 4px solid #802808;
     font-style: italic;
     font-size: 3rem;
     text-align: center;
